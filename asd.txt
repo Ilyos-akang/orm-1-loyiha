@@ -1,0 +1,15 @@
+<h2>salom</h2>
+
+<form method="POST" 
+style{
+    
+}
+>
+<input type="text" placeholder="ismingizni kiriting" name="ismi" > <br> <br>
+<input type="number " placeholder="tug'ilgan yilingizni kiriting kiriting" name="t_yil" > <br><br>
+<input type="number" placeholder="tahsil olayotgan kursingiz" name="kurs" > <br><br>
+<input type="text" placeholder="yunalish" name="yunalish" > <br><br>
+<input type="number" placeholder="guruh raqami" name="guruh" > <br><br>
+<button type="submit">kiritish</button>
+
+</form>
